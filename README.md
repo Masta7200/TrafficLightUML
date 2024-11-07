@@ -10,4 +10,4 @@ This repository contains the UML state diagram for a traffic light system, inclu
 - The system transitions between states based on timers.
 
 ## Diagram
-The UML diagram is available in 
+The UML diagram is available in traffic-light.
